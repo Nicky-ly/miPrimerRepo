@@ -1,6 +1,5 @@
 body {
     background: #885deb;
-
 }
 .card {
     width: 350px;
@@ -36,14 +35,12 @@ h1 {
     font-style: normal;
     margin-top: 8px;
     margin-bottom: 0%;
-
 }
 p {
     margin-top: 8px;
     margin-bottom: 8px;
     color: #9ce21f;
-    font-size: small;
-    
+    font-size: small; 
 }
 
 .foto{ 
